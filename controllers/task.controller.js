@@ -1,7 +1,4 @@
-// controllers/task.controller.js
-// O Controller concentra a LÓGICA de cada operação.
-// Cada função aqui corresponde a uma rota, e é aqui que o Sequelize
-// é usado de fato para conversar com o banco de dados.
+
 
 const Task = require('../models/task.model');
 
