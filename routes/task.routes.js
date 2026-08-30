@@ -1,6 +1,4 @@
-// routes/task.routes.js
-// As rotas definem QUAL url + método HTTP chama QUAL função do controller.
-// Repare que aqui não tem nenhuma lógica de banco - só o "roteamento".
+
 
 const express = require('express');
 const router = express.Router();
