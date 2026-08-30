@@ -1,6 +1,4 @@
-// server.js
-// Ponto de entrada da aplicação: conecta ao banco, sincroniza os
-// models (cria as tabelas se não existirem) e sobe o servidor.
+
 
 require('dotenv').config();
 const app = require('./app');
