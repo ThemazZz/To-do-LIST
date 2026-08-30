@@ -1,5 +1,3 @@
-// app.js
-// Aqui configuramos a aplicação Express: middlewares e rotas.
 
 const express = require('express');
 const taskRoutes = require('./routes/task.routes');
