@@ -1,6 +1,3 @@
-// config/database.js
-// Aqui criamos a instância do Sequelize, responsável por gerenciar
-// a conexão com o banco de dados PostgreSQL.
 
 require('dotenv').config();
 const { Sequelize } = require('sequelize');
