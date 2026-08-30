@@ -1,7 +1,4 @@
-// models/task.model.js
-// O Model é a "tradução" da tabela do banco em um objeto JavaScript.
-// O Sequelize usa essa definição para criar a tabela (via sync) e
-// para gerar automaticamente o SQL de SELECT, INSERT, UPDATE e DELETE.
+
 
 const { DataTypes } = require('sequelize');
 const sequelize = require('../config/database');
